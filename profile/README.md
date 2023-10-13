@@ -28,7 +28,7 @@ Be cool, be nice, and let's make this a troll-free zone! For the nitty-gritty, c
 
 ## Contact 💌
 
-Got questions? We've got answers! Hit us up at [contact@crazzle.com](mailto:crazzle@crazzle.dev).
+Got questions? We've got answers! Hit us up at [crazzle@crazzle.com](mailto:crazzle@crazzle.dev).
 
 ## Follow Us 🐾
 
