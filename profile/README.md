@@ -32,8 +32,9 @@ Got questions? We've got answers! Hit us up at [contact@crazzle.com](mailto:craz
 
 ## Follow Us 🐾
 
-- Twitter: [@CrazzleTech](https://twitter.com/crazzlehq)
-- Website: [www.crazzle.com](https://www.crazzle.dev)
+- Twitter: [@crazzlehq](https://twitter.com/crazzlehq)
+- Instagram: [@crazzlehq](https://instagram.com/crazzlehq)
+- Website: [www.crazzle.dev](https://www.crazzle.dev)
 
 ## License 📝
 
